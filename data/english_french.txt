@@ -1,0 +1,438 @@
+i am cold	je suis froid
+i am very cold	je suis tres froid
+i am warm	je suis chaud
+i am very warm	je suis tres chaud
+i am tired	je suis fatigue
+i am very tired	je suis tres fatigue
+i am hungry	je suis affame
+i am very hungry	je suis tres affame
+i am happy	je suis heureux
+i am very happy	je suis tres heureux
+i am sad	je suis triste
+i am very sad	je suis tres triste
+i am strong	je suis fort
+i am very strong	je suis tres fort
+i am ready	je suis pret
+i am very ready	je suis tres pret
+i am late	je suis en retard
+i am very late	je suis tres en retard
+i am small	je suis petit
+i am very small	je suis tres petit
+i am tall	je suis grand
+i am very tall	je suis tres grand
+you are cold	tu es froid
+you are very cold	tu es tres froid
+you are warm	tu es chaud
+you are very warm	tu es tres chaud
+you are tired	tu es fatigue
+you are very tired	tu es tres fatigue
+you are hungry	tu es affame
+you are very hungry	tu es tres affame
+you are happy	tu es heureux
+you are very happy	tu es tres heureux
+you are sad	tu es triste
+you are very sad	tu es tres triste
+you are strong	tu es fort
+you are very strong	tu es tres fort
+you are ready	tu es pret
+you are very ready	tu es tres pret
+you are late	tu es en retard
+you are very late	tu es tres en retard
+you are small	tu es petit
+you are very small	tu es tres petit
+you are tall	tu es grand
+you are very tall	tu es tres grand
+he is cold	il est froid
+he is very cold	il est tres froid
+he is warm	il est chaud
+he is very warm	il est tres chaud
+he is tired	il est fatigue
+he is very tired	il est tres fatigue
+he is hungry	il est affame
+he is very hungry	il est tres affame
+he is happy	il est heureux
+he is very happy	il est tres heureux
+he is sad	il est triste
+he is very sad	il est tres triste
+he is strong	il est fort
+he is very strong	il est tres fort
+he is ready	il est pret
+he is very ready	il est tres pret
+he is late	il est en retard
+he is very late	il est tres en retard
+he is small	il est petit
+he is very small	il est tres petit
+he is tall	il est grand
+he is very tall	il est tres grand
+she is cold	elle est froid
+she is very cold	elle est tres froid
+she is warm	elle est chaud
+she is very warm	elle est tres chaud
+she is tired	elle est fatigue
+she is very tired	elle est tres fatigue
+she is hungry	elle est affame
+she is very hungry	elle est tres affame
+she is happy	elle est heureux
+she is very happy	elle est tres heureux
+she is sad	elle est triste
+she is very sad	elle est tres triste
+she is strong	elle est fort
+she is very strong	elle est tres fort
+she is ready	elle est pret
+she is very ready	elle est tres pret
+she is late	elle est en retard
+she is very late	elle est tres en retard
+she is small	elle est petit
+she is very small	elle est tres petit
+she is tall	elle est grand
+she is very tall	elle est tres grand
+we are cold	nous sommes froid
+we are very cold	nous sommes tres froid
+we are warm	nous sommes chaud
+we are very warm	nous sommes tres chaud
+we are tired	nous sommes fatigue
+we are very tired	nous sommes tres fatigue
+we are hungry	nous sommes affame
+we are very hungry	nous sommes tres affame
+we are happy	nous sommes heureux
+we are very happy	nous sommes tres heureux
+we are sad	nous sommes triste
+we are very sad	nous sommes tres triste
+we are strong	nous sommes fort
+we are very strong	nous sommes tres fort
+we are ready	nous sommes pret
+we are very ready	nous sommes tres pret
+we are late	nous sommes en retard
+we are very late	nous sommes tres en retard
+we are small	nous sommes petit
+we are very small	nous sommes tres petit
+we are tall	nous sommes grand
+we are very tall	nous sommes tres grand
+they are cold	ils sont froid
+they are very cold	ils sont tres froid
+they are warm	ils sont chaud
+they are very warm	ils sont tres chaud
+they are tired	ils sont fatigue
+they are very tired	ils sont tres fatigue
+they are hungry	ils sont affame
+they are very hungry	ils sont tres affame
+they are happy	ils sont heureux
+they are very happy	ils sont tres heureux
+they are sad	ils sont triste
+they are very sad	ils sont tres triste
+they are strong	ils sont fort
+they are very strong	ils sont tres fort
+they are ready	ils sont pret
+they are very ready	ils sont tres pret
+they are late	ils sont en retard
+they are very late	ils sont tres en retard
+they are small	ils sont petit
+they are very small	ils sont tres petit
+they are tall	ils sont grand
+they are very tall	ils sont tres grand
+i like dogs	j'aime les chiens
+she likes cats	elle aime les chats
+we love peace	nous aimons la paix
+they want food	ils veulent manger
+he works here	il travaille ici
+she speaks french	elle parle francais
+they speak english	ils parlent anglais
+it is cold today	il fait froid aujourd'hui
+it is warm outside	il fait chaud dehors
+i am very happy	je suis tres heureux
+we are very strong	nous sommes tres forts
+they are very late	ils sont tres en retard
+he is a doctor	il est medecin
+she is a teacher	elle est enseignante
+i am cold	je suis froid
+i am very cold	je suis tres froid
+i am warm	je suis chaud
+i am very warm	je suis tres chaud
+i am tired	je suis fatigue
+i am very tired	je suis tres fatigue
+i am hungry	je suis affame
+i am very hungry	je suis tres affame
+i am happy	je suis heureux
+i am very happy	je suis tres heureux
+i am sad	je suis triste
+i am very sad	je suis tres triste
+i am strong	je suis fort
+i am very strong	je suis tres fort
+i am ready	je suis pret
+i am very ready	je suis tres pret
+i am late	je suis en retard
+i am very late	je suis tres en retard
+i am small	je suis petit
+i am very small	je suis tres petit
+i am tall	je suis grand
+i am very tall	je suis tres grand
+you are cold	tu es froid
+you are very cold	tu es tres froid
+you are warm	tu es chaud
+you are very warm	tu es tres chaud
+you are tired	tu es fatigue
+you are very tired	tu es tres fatigue
+you are hungry	tu es affame
+you are very hungry	tu es tres affame
+you are happy	tu es heureux
+you are very happy	tu es tres heureux
+you are sad	tu es triste
+you are very sad	tu es tres triste
+you are strong	tu es fort
+you are very strong	tu es tres fort
+you are ready	tu es pret
+you are very ready	tu es tres pret
+you are late	tu es en retard
+you are very late	tu es tres en retard
+you are small	tu es petit
+you are very small	tu es tres petit
+you are tall	tu es grand
+you are very tall	tu es tres grand
+he is cold	il est froid
+he is very cold	il est tres froid
+he is warm	il est chaud
+he is very warm	il est tres chaud
+he is tired	il est fatigue
+he is very tired	il est tres fatigue
+he is hungry	il est affame
+he is very hungry	il est tres affame
+he is happy	il est heureux
+he is very happy	il est tres heureux
+he is sad	il est triste
+he is very sad	il est tres triste
+he is strong	il est fort
+he is very strong	il est tres fort
+he is ready	il est pret
+he is very ready	il est tres pret
+he is late	il est en retard
+he is very late	il est tres en retard
+he is small	il est petit
+he is very small	il est tres petit
+he is tall	il est grand
+he is very tall	il est tres grand
+she is cold	elle est froid
+she is very cold	elle est tres froid
+she is warm	elle est chaud
+she is very warm	elle est tres chaud
+she is tired	elle est fatigue
+she is very tired	elle est tres fatigue
+she is hungry	elle est affame
+she is very hungry	elle est tres affame
+she is happy	elle est heureux
+she is very happy	elle est tres heureux
+she is sad	elle est triste
+she is very sad	elle est tres triste
+she is strong	elle est fort
+she is very strong	elle est tres fort
+she is ready	elle est pret
+she is very ready	elle est tres pret
+she is late	elle est en retard
+she is very late	elle est tres en retard
+she is small	elle est petit
+she is very small	elle est tres petit
+she is tall	elle est grand
+she is very tall	elle est tres grand
+we are cold	nous sommes froid
+we are very cold	nous sommes tres froid
+we are warm	nous sommes chaud
+we are very warm	nous sommes tres chaud
+we are tired	nous sommes fatigue
+we are very tired	nous sommes tres fatigue
+we are hungry	nous sommes affame
+we are very hungry	nous sommes tres affame
+we are happy	nous sommes heureux
+we are very happy	nous sommes tres heureux
+we are sad	nous sommes triste
+we are very sad	nous sommes tres triste
+we are strong	nous sommes fort
+we are very strong	nous sommes tres fort
+we are ready	nous sommes pret
+we are very ready	nous sommes tres pret
+we are late	nous sommes en retard
+we are very late	nous sommes tres en retard
+we are small	nous sommes petit
+we are very small	nous sommes tres petit
+we are tall	nous sommes grand
+we are very tall	nous sommes tres grand
+they are cold	ils sont froid
+they are very cold	ils sont tres froid
+they are warm	ils sont chaud
+they are very warm	ils sont tres chaud
+they are tired	ils sont fatigue
+they are very tired	ils sont tres fatigue
+they are hungry	ils sont affame
+they are very hungry	ils sont tres affame
+they are happy	ils sont heureux
+they are very happy	ils sont tres heureux
+they are sad	ils sont triste
+they are very sad	ils sont tres triste
+they are strong	ils sont fort
+they are very strong	ils sont tres fort
+they are ready	ils sont pret
+they are very ready	ils sont tres pret
+they are late	ils sont en retard
+they are very late	ils sont tres en retard
+they are small	ils sont petit
+they are very small	ils sont tres petit
+they are tall	ils sont grand
+they are very tall	ils sont tres grand
+i like dogs	j'aime les chiens
+she likes cats	elle aime les chats
+we love peace	nous aimons la paix
+they want food	ils veulent manger
+he works here	il travaille ici
+she speaks french	elle parle francais
+they speak english	ils parlent anglais
+it is cold today	il fait froid aujourd'hui
+it is warm outside	il fait chaud dehors
+i am very happy	je suis tres heureux
+we are very strong	nous sommes tres forts
+they are very late	ils sont tres en retard
+he is a doctor	il est medecin
+she is a teacher	elle est enseignante
+i am cold	je suis froid
+i am very cold	je suis tres froid
+i am warm	je suis chaud
+i am very warm	je suis tres chaud
+i am tired	je suis fatigue
+i am very tired	je suis tres fatigue
+i am hungry	je suis affame
+i am very hungry	je suis tres affame
+i am happy	je suis heureux
+i am very happy	je suis tres heureux
+i am sad	je suis triste
+i am very sad	je suis tres triste
+i am strong	je suis fort
+i am very strong	je suis tres fort
+i am ready	je suis pret
+i am very ready	je suis tres pret
+i am late	je suis en retard
+i am very late	je suis tres en retard
+i am small	je suis petit
+i am very small	je suis tres petit
+i am tall	je suis grand
+i am very tall	je suis tres grand
+you are cold	tu es froid
+you are very cold	tu es tres froid
+you are warm	tu es chaud
+you are very warm	tu es tres chaud
+you are tired	tu es fatigue
+you are very tired	tu es tres fatigue
+you are hungry	tu es affame
+you are very hungry	tu es tres affame
+you are happy	tu es heureux
+you are very happy	tu es tres heureux
+you are sad	tu es triste
+you are very sad	tu es tres triste
+you are strong	tu es fort
+you are very strong	tu es tres fort
+you are ready	tu es pret
+you are very ready	tu es tres pret
+you are late	tu es en retard
+you are very late	tu es tres en retard
+you are small	tu es petit
+you are very small	tu es tres petit
+you are tall	tu es grand
+you are very tall	tu es tres grand
+he is cold	il est froid
+he is very cold	il est tres froid
+he is warm	il est chaud
+he is very warm	il est tres chaud
+he is tired	il est fatigue
+he is very tired	il est tres fatigue
+he is hungry	il est affame
+he is very hungry	il est tres affame
+he is happy	il est heureux
+he is very happy	il est tres heureux
+he is sad	il est triste
+he is very sad	il est tres triste
+he is strong	il est fort
+he is very strong	il est tres fort
+he is ready	il est pret
+he is very ready	il est tres pret
+he is late	il est en retard
+he is very late	il est tres en retard
+he is small	il est petit
+he is very small	il est tres petit
+he is tall	il est grand
+he is very tall	il est tres grand
+she is cold	elle est froid
+she is very cold	elle est tres froid
+she is warm	elle est chaud
+she is very warm	elle est tres chaud
+she is tired	elle est fatigue
+she is very tired	elle est tres fatigue
+she is hungry	elle est affame
+she is very hungry	elle est tres affame
+she is happy	elle est heureux
+she is very happy	elle est tres heureux
+she is sad	elle est triste
+she is very sad	elle est tres triste
+she is strong	elle est fort
+she is very strong	elle est tres fort
+she is ready	elle est pret
+she is very ready	elle est tres pret
+she is late	elle est en retard
+she is very late	elle est tres en retard
+she is small	elle est petit
+she is very small	elle est tres petit
+she is tall	elle est grand
+she is very tall	elle est tres grand
+we are cold	nous sommes froid
+we are very cold	nous sommes tres froid
+we are warm	nous sommes chaud
+we are very warm	nous sommes tres chaud
+we are tired	nous sommes fatigue
+we are very tired	nous sommes tres fatigue
+we are hungry	nous sommes affame
+we are very hungry	nous sommes tres affame
+we are happy	nous sommes heureux
+we are very happy	nous sommes tres heureux
+we are sad	nous sommes triste
+we are very sad	nous sommes tres triste
+we are strong	nous sommes fort
+we are very strong	nous sommes tres fort
+we are ready	nous sommes pret
+we are very ready	nous sommes tres pret
+we are late	nous sommes en retard
+we are very late	nous sommes tres en retard
+we are small	nous sommes petit
+we are very small	nous sommes tres petit
+we are tall	nous sommes grand
+we are very tall	nous sommes tres grand
+they are cold	ils sont froid
+they are very cold	ils sont tres froid
+they are warm	ils sont chaud
+they are very warm	ils sont tres chaud
+they are tired	ils sont fatigue
+they are very tired	ils sont tres fatigue
+they are hungry	ils sont affame
+they are very hungry	ils sont tres affame
+they are happy	ils sont heureux
+they are very happy	ils sont tres heureux
+they are sad	ils sont triste
+they are very sad	ils sont tres triste
+they are strong	ils sont fort
+they are very strong	ils sont tres fort
+they are ready	ils sont pret
+they are very ready	ils sont tres pret
+they are late	ils sont en retard
+they are very late	ils sont tres en retard
+they are small	ils sont petit
+they are very small	ils sont tres petit
+they are tall	ils sont grand
+they are very tall	ils sont tres grand
+i like dogs	j'aime les chiens
+she likes cats	elle aime les chats
+we love peace	nous aimons la paix
+they want food	ils veulent manger
+he works here	il travaille ici
+she speaks french	elle parle francais
+they speak english	ils parlent anglais
+it is cold today	il fait froid aujourd'hui
+it is warm outside	il fait chaud dehors
+i am very happy	je suis tres heureux
+we are very strong	nous sommes tres forts
+they are very late	ils sont tres en retard
+he is a doctor	il est medecin
+she is a teacher	elle est enseignante
